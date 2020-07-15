@@ -2,7 +2,7 @@
 	<modification
 		xmlns="https://github.com/vqmod/vqmod"
 		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-		xsi:schemaLocation="https://github.com/vqmod/vqmod https://raw.githubusercontent.com/vqmod/vqmod/master/vqmod.xsd">
+		xsi:schemaLocation="https://github.com/vqmod/vqmod https://raw.githubusercontent.com/vqmod/vqmod/master/vqmod.xsd"
 		>
 		<id><![CDATA[[VQMOD] Default & Journal v.2.x theme - Compare Product > Add a href tag to image]]></id>
 		<version>0.1</version>
